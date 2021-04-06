@@ -1,4 +1,4 @@
-# Directory Finder
+# Directory Finder Upload
 <h2>If you want to recode it, first ask Admin by Kedjaw3n</h2>
 
 ##### PYTHON 3 PREREQUISITES
